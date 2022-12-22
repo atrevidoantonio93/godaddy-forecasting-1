@@ -1,2 +1,1 @@
-# godaddy-forecasting
- 
+# GoDaddy - Microbusiness Density Forecasting
